@@ -1,2 +1,2 @@
 # ass1_sem3
-first assignment
+This is my read me file.
